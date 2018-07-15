@@ -6,8 +6,8 @@ The app requires you to have Java 1.8 and Maven and Eclipse or IntelliJ installe
 
 Build / execution 
 
-Clone the project to a directory on your pc - git clone https://github.com/camerpiper/weather-app-test.git
-Import the project as an existing maven project and run update maven project.  
+Clone the project to a directory on your pc - git clone https://github.com/camerpiper/weather-app-test.git    
+Import the project to Eclipse (or IntelliJ) as an existing maven project and run update maven project.  
 Right mouse click the project in project explorer and select run as JUnit Test.  
 In the JUnit configuration set the test class to be RunCukeTest and the runner to be JUnit4.  
 Run the tests.
